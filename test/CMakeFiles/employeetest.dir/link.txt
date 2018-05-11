@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/employeetest.dir/employeetest.cpp.o CMakeFiles/employeetest.dir/employeetest_automoc.cpp.o  -o employeetest /usr/lib/x86_64-linux-gnu/libQt5Test.so.5.5.1 ../payroll/liblibpayroll.a /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1 

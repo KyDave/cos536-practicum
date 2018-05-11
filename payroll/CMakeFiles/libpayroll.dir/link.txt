@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibpayroll.a  CMakeFiles/libpayroll.dir/employee.cpp.o CMakeFiles/libpayroll.dir/hourly.cpp.o CMakeFiles/libpayroll.dir/salaried.cpp.o CMakeFiles/libpayroll.dir/libpayroll_automoc.cpp.o
+/usr/bin/ranlib liblibpayroll.a

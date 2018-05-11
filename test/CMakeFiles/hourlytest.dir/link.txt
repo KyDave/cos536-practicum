@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/hourlytest.dir/hourlytest.cpp.o CMakeFiles/hourlytest.dir/hourlytest_automoc.cpp.o  -o hourlytest /usr/lib/x86_64-linux-gnu/libQt5Test.so.5.5.1 ../payroll/liblibpayroll.a /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1 

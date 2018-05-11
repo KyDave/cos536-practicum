@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/payroll.dir/main.cpp.o CMakeFiles/payroll.dir/payroll_automoc.cpp.o  -o payroll liblibpayroll.a 
